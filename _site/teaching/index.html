@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- Este archivo no muestra nada directamente en la pantalla, 
+ pero le dice al navegador cómo cargar la página, qué tipografías usar y qué poner en la pestaña de arriba. -->
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Teaching</title>
+
+<!-- Estilos CSS -->
+<link rel="stylesheet" href="/assets/css/main.css" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+<!-- FontAwesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/fontawesome.min.css" 
+      integrity="sha512-v8QQ0YQ3H4K6Ic3PJkym91KoeNT5S3PnDKvqnwqFD1oiqIl653crGZplPdU5KKtHjO0QKcQ2aUlQZYjHczkmGw==" 
+      crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+        <style>
+            section {
+                width: 100%;
+            }
+            header{
+                display: none;
+            }
+        </style>
+    </head>
+    <body>
+
+        <nav>
+  <ul>
+    
+      
+        <li><a href="/">Home</a></li>
+      
+    
+      
+        <li><a href="/experience/">Education & experience</a></li>
+      
+    
+      
+        <li><a href="/research/">Research</a></li>
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <li><a href="/teaching/">Teaching</a></li>
+      
+    
+      
+        <li><a href="/academic-presentation/">Academic Presentations</a></li>
+      
+    
+      
+    
+  </ul>
+</nav>
+
+
+        <div class="wrapper">
+
+            <main>
+                <style>
+  .content-teaching {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .content-teaching h2,
+  .content-teaching h3,
+  .content-teaching h4 {
+    text-align: left;
+    margin-left: 0;
+  }
+
+  h3{
+
+    margin-bottom: -10px !important;
+
+  }
+
+  h2 {
+    margin-bottom: 20px;
+  }
+  
+  h4 {
+    margin: 25px 0px 15px 0px;
+  }
+  
+  .card-body {
+    text-align: left;
+  }
+  
+  @media (max-width: 768px) {
+    .card {
+      width: 100% !important;
+      margin: 10px 0;
+    }
+    
+    h4 {
+      margin-left: 5px;
+    }
+    
+    div[style*="margin-left: 60px;"] {
+      margin-left: 0 !important;
+    }
+  }
+</style>
+
+<div class="content-teaching">
+  
+  <div>
+    <h2>Teaching Assistance</h2>
+     <p style="margin-top: -10px; margin-bottom: 10px;">
+      I have had the opportunity to serve as a teaching assistant in various undergraduate economics courses. All errors in the materials below are mine alone; corrections are always welcome.
+    </p>
+    <h3>
+      <img src="/assets/img/institutions/pucp-logo.png" draggable="false" alt="PUCP Logo" style="height: 30px; vertical-align: middle;" /> Pontificia Universidad
+      Católica del Perú (PUCP)
+    </h3>
+    <h4>Faculty of Social Sciences, Department of Economics</h4>
+  </div>
+
+  <div class="card">
+    <div class="card-body">
+      <h5 class="card-title">
+        <a href="" target="_blank">Macroeconomics II</a>
+      </h5>
+      <p class="card-text">
+        With <a href="https://www.pucp.edu.pe/profesor/marco-vega-de-la-cruz/" target="_blank">PhD Marco Vega</a>
+      </p>
+      <hr />
+      <p class="card-text">
+        <a href="/courses/macroeconomics_2/2026-2">2026-2</a> 
+      </p>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-body">
+      <h5 class="card-title">
+        <a href="" target="_blank">Microeconomics I</a>
+      </h5>
+      <p class="card-text">
+        With <a href="https://www.pucp.edu.pe/profesor/giovanna-aguilar-andia" target="_blank">PhD Giovanna Aguilar</a>
+      </p>
+      <hr />
+      <p class="card-text">
+        <a href="/courses/microeconomics_1/2026-2">2026-2</a> 
+      </p>
+    </div>
+  </div>
+</div>
+
+            </main>
+
+        </div>
+        <script src="/assets/js/scale.fix.js"></script>
+<script>
+  function toggle(pid) {
+    var objid = "pubabs_" + pid.toString();
+    var linkid = "pubabslink_" + pid.toString();
+    var absobj = document.getElementById(objid);
+    var linkobj = document.getElementById(linkid);
+    if (absobj.style.display === "none") {
+      absobj.style.display = "inline";
+      linkobj.style.display = "none";
+    } else {
+      absobj.style.display = "none";
+      linkobj.style.display = "inline";
+    }
+  }
+</script>
+
+<script
+  src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/js/all.min.js"
+  integrity="sha512-b+nQTCdtTBIRIbraqNEwsjB6UvL3UEMkXnhzd8awtCYh0Kcsjl9uEgwVFVbhoj3uu1DO1ZMacNvLoyJJiNfcvg=="
+  crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    </body>
+</html>

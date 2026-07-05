@@ -1,0 +1,28 @@
+# Los links principales del page
+main:
+  - title: "Home"
+    url: /
+
+  - title: "Education & experience"
+    url: /experience/
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Manuscripts"
+    url: /research/manuscripts/
+
+  - title: "Books"
+    url: /research/books/
+
+  - title: "Lecture Notes"
+    url: /research/lecture-notes/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Academic Presentations"
+    url: /academic-presentation/
+
+  - title: "Information Contact"
+    url: /contact/
