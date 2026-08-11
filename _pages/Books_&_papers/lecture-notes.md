@@ -34,7 +34,7 @@ permalink: /research/lecture-notes/
 * Microeconomics II - Notes for ECO263 (2026) PUCP                                                                                                                                                                   
   Professor [Pavel Coronado](https://www.pucp.edu.pe/profesor/pavel-coronado-castellanos/docencia/), and written by Adrian Plasencia.  
   <details>
-    <summary>Summary | <a href="{{ "/files/books-and-papers/microeconomia_2.pdf" | relative_url }}" target="_blank">Lecture Notes (draft)</a></summary>
+    <summary>Summary | <a href="{{ "/files/books-and-papers/microeconomia_2.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
     Preliminary draft, please notify any mistake! 
   </details>
 
@@ -50,7 +50,7 @@ permalink: /research/lecture-notes/
 * Microeconomics I - Notes for ECO255 (2025), PUCP                                                                                                                                                                   
   Professor [Giovanna Aguilar](https://www.pucp.edu.pe/profesor/giovanna-aguilar-andia), and written by Adrian Plasencia.  
   <details>
-    <summary>Summary | <a href="{{ "/files/books-and-papers/PON_AQUI_EL_ARCHIVO.pdf" | relative_url }}" target="_blank">Lecture Notes (draft)</a></summary>
+    <summary>Summary | <a href="{{ "/files/books-and-papers/microeconomia_1.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
     Preliminary draft, please notify any mistake! 
   </details>
 
