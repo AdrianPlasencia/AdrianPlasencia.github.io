@@ -10,4 +10,31 @@
         font-size: 16px;
     }
 
+    .email-reveal {
+        color: #003d90;
+        cursor: pointer;
+        text-decoration: underline;
+    }
+
 </style>
+
+<p>
+  <i class="fas fa-envelope"></i>
+  Email: <a href="#" class="email-reveal" id="email-reveal">Click to reveal</a>
+</p>
+
+<script>
+(function () {
+  var user = "adrian.plasencia";
+  var domain = "pucp.edu.pe";
+  var link = document.getElementById("email-reveal");
+  if (link) {
+    link.addEventListener("click", function (e) {
+      e.preventDefault();
+      var email = user + "@" + domain;
+      link.textContent = email;
+      link.href = "mailto:" + email;
+    });
+  }
+})();
+</script>

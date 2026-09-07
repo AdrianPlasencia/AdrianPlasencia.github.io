@@ -22,7 +22,10 @@ main:
     url: /teaching/
 
   - title: "Academic Presentations"
-    url: /academic-presentation/
+    url: /research/academic-presentations/
 
-  - title: "Information Contact"
+  - title: "CV"
+    url: /cv/
+
+  - title: "Contact"
     url: /contact/

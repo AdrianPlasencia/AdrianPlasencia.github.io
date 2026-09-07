@@ -1,8 +1,12 @@
 <nav>
   <ul>
     {% for link in site.data.navigation.main %}
-      {% unless link.url contains '/courses/' or link.url == '/contact/' or link.url == '/research/lecture-notes/' or link.url == '/research/manuscripts/' or link.url == '/research/books/' %}
-        <li><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
+      {% unless link.url contains '/courses/' or link.url == '/research/lecture-notes/' or link.url == '/research/manuscripts/' or link.url == '/research/books/' or link.url == '/research/academic-presentations/' or link.url == '/teaching/' %}
+        {% if link.url contains '.pdf' %}
+          <li><a href="{{ site.baseurl }}{{ link.url }}" target="_blank">{{ link.title }}</a></li>
+        {% else %}
+          <li><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
+        {% endif %}
       {% endunless %}
     {% endfor %}
   </ul>

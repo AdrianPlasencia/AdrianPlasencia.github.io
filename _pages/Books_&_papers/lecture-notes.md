@@ -18,8 +18,7 @@ permalink: /research/lecture-notes/
 * Fundamentals of Econometrics - Notes for 1ECO11 (2026), PUCP                                                                                                                                                                   
   Professor [Juan León](https://grade.org.pe/en/investigadores/personal/jleon/), and written by Adrian Plasencia.  
   <details>
-    <summary>Summary | <a href="{{ "/files/books-and-papers/PON_AQUI_EL_ARCHIVO.pdf" | relative_url }}" target="_blank">Lecture Notes (draft)</a></summary>
-    Preliminary draft, please notify any mistake! 
+    <summary>Summary | Coming soon</summary>
   </details>
 
 
@@ -42,8 +41,7 @@ permalink: /research/lecture-notes/
 * Inferential Statistics - Notes for EST241 (2025), PUCP                                                                                                                                                                   
   Professor [Luis Valdivieso](https://www.pucp.edu.pe/profesor/luis-valdivieso-serrano), and written by Adrian Plasencia.  
   <details>
-    <summary>Summary | <a href="{{ "/files/books-and-papers/PON_AQUI_EL_ARCHIVO.pdf" | relative_url }}" target="_blank">Lecture Notes (draft)</a></summary>
-    Preliminary draft, please notify any mistake! 
+    <summary>Summary | Coming soon</summary>
   </details>
 
 
@@ -58,8 +56,7 @@ permalink: /research/lecture-notes/
 * Macroeconomics I - Notes for ECO290 (2025), PUCP                                                                                                                                                                   
   Professor [Pedro Herrera](https://www.pucp.edu.pe/profesor/pedro-herrera-catalan), and written by Adrian Plasencia.  
   <details>
-    <summary>Summary | <a href="{{ "/files/books-and-papers/PON_AQUI_EL_ARCHIVO.pdf" | relative_url }}" target="_blank">Lecture Notes (draft)</a></summary>
-    Preliminary draft, please notify any mistake! 
+    <summary>Summary | Coming soon</summary>
   </details>
 
 ---

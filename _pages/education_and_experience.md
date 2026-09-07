@@ -76,14 +76,14 @@ permalink: /experience/
     </div>
     <div class="card-body">
       <p class="card-text"><a href="https://www.pucp.edu.pe/carrera/matematicas/">Pontificia Universidad Católica del Perú</a></p>
-      <h5 class="card-title">Bs. in Economics</h5>
+      <h5 class="card-title">B.Sc. in Economics</h5>
       <p class="card-text">2023 - 2028</p>
     </div>
   </div>
 
   <!-- Complementary Education -->
   <h2>Complementary Education</h2>
-  
+
   <div class="card">
     <div class="card-header">
       <img draggable="false" src="{{ '/assets/img/institutions/qlab_logo.png' | relative_url }}" alt="QLab Logo">
@@ -92,34 +92,8 @@ permalink: /experience/
       <p class="card-text"><a href="https://qlab.pucp.edu.pe/">QLab – Pontificia Universidad Católica del Perú</a></p>
       <h5 class="card-title">Summer and Winter School</h5>
       <p class="card-text"><a href="{{ '/files/education-and-experience/diplomados_adrian_plasencia.pdf' | relative_url }}">Transcript</a></p>
-      <p class="card-text">2025, 2026</p>
-    </div>
-  </div>
-
-  <!-- Awards & Honors -->
-  <h2>Awards & Honors</h2>
-    
-  <div class="card">
-    <div class="card-header">
-      <img draggable="false" src="{{ '/assets/img/institutions/pucp-logo.png' | relative_url }}" alt="PUCP Logo">
-    </div>
-    <div class="card-body">
-      <p class="card-text"><a href="https://www.pucp.edu.pe/">Pontificia Universidad Católica del Perú</a></p>
-      <h5 class="card-title">Academic Excellence Award</h5>
-      <p class="card-text"></p>
-      <p class="card-text">2026</p>
-    </div>
-  </div>  
-
-  <div class="card">
-    <div class="card-header">
-      <img draggable="false" src="{{ '/assets/img/institutions/pucp-logo.png' | relative_url }}" alt="PUCP Logo">
-    </div>
-    <div class="card-body">
-      <p class="card-text"><a href="https://www.pucp.edu.pe/">Pontificia Universidad Católica del Perú</a></p>
-      <h5 class="card-title">Contest – Academic Research</h5>
-      <p class="card-text">Winner – Individual Category</p>
-      <p class="card-text">2026</p>
+      <p class="card-text">Summer School 2026, Track: Economic Analysis and Data Science</p>
+      <p class="card-text">Winter School 2025 and 2026</p>
     </div>
   </div>
 
@@ -132,8 +106,9 @@ permalink: /experience/
     </div>
     <div class="card-body">
       <p class="card-text"><a href="https://www.pucp.edu.pe/">Pontificia Universidad Católica del Perú</a></p>
-      <h5 class="card-title">Research Assistant for Professor Pavel Coronado</h5>
-      <p class="card-text"> Applied political economy and machine learning.</p>
+      <h5 class="card-title">Research Assistant for Professor Pavel Coronado Castellanos</h5>
+      <p class="card-text">Political Economy and Applied Econometric Analysis.</p>
+      <p class="card-text">Also assisted Professor Carlos Schmidt-Padilla (UC Berkeley).</p>
       <p class="card-text muted">2026 – Present</p>
     </div>
   </div>
@@ -144,9 +119,39 @@ permalink: /experience/
     </div>
     <div class="card-body">
       <p class="card-text"><a href="https://www.pucp.edu.pe/">Pontificia Universidad Católica del Perú</a></p>
-      <h5 class="card-title">Research Assistant for Professor Andrés Beltrán</h5>
-      <p class="card-text"> Convex Optimization and Game Theory</p>
-      <p class="card-text muted">2025 – Present</p>
+      <h5 class="card-title">Research Assistant for Professor Andrés Beltrán Cortez</h5>
+      <p class="card-text">Mathematical Theory for Economics.</p>
+      <p class="card-text muted">2026 – Present</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header">
+      <img draggable="false" src="{{ '/assets/img/institutions/grade_logo.png' | relative_url }}" alt="GRADE Logo">
+    </div>
+    <div class="card-body">
+      <p class="card-text"><a href="https://www.grade.org.pe/">Grupo de Análisis para el Desarrollo (GRADE)</a></p>
+      <h5 class="card-title">Research Assistant for Professor Juan León Jara-Almonte</h5>
+      <p class="card-text">Theoretical Econometrics and Impact Evaluation.</p>
+      <p class="card-text muted">2026 – Present</p>
+    </div>
+  </div>
+
+  <!-- Awards & Honors -->
+  <h2>Awards & Honors</h2>
+
+  <div class="card">
+    <div class="card-header">
+      <img draggable="false" src="{{ '/assets/img/institutions/pucp-logo.png' | relative_url }}" alt="PUCP Logo">
+    </div>
+    <div class="card-body">
+      <p class="card-text"><a href="https://www.pucp.edu.pe/">Pontificia Universidad Católica del Perú</a></p>
+      <h5 class="card-title">Academic Excellence Award</h5>
+      <p class="card-text">2026</p>
+      <hr>
+      <h5 class="card-title">Contest – Academic Research</h5>
+      <p class="card-text">Winner – Individual Category</p>
+      <p class="card-text">2026</p>
     </div>
   </div>
 

@@ -17,6 +17,6 @@ permalink: /
 <h3 id="department-of-mathematics" style="margin-top: 5px;">Department of Economics, PUCP</h3>
 
 {% include index.html %}
-Economist from the Pontificia Universidad Católica del Perú (PUCP) with a concentration in economic theory. 
+I am currently in my 7th semester of the Economics program at the Pontificia Universidad Católica del Perú (PUCP). I work as a research assistant for Professor Pavel Coronado on political economy and applied econometric analysis. I also assist Professor Andrés Beltrán on applied mathematical theory and Professor Juan León Jara-Almonte on methods for impact evaluation.
 
-Contact information [here]({{ "/contact" | relative_url }}) and CV [here]({{ "/files/education-and-experience/cv_ap.pdf" | relative_url }}).
+Contact information [here]({{ "/contact" | relative_url }}) and CV [here]({{ "/cv" | relative_url }}).

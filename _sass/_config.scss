@@ -9,7 +9,8 @@
 body {
     background-color: $body-bg;
     padding: 50px;
-    font: 17px/1.6 $base-font;
+    font: 15px/1.6 $base-font;
+    font-variant-numeric: lining-nums;
     color: $text-color;
     font-weight: 400;
     height: 100%;
@@ -103,7 +104,7 @@ h1 {
 
 h2 {
     color: $h2-color;
-    font-size: 23px; 
+    font-size: 20px;
 }
 
 #profile-name {
@@ -196,7 +197,7 @@ nav {
         list-style: none;
         padding: 0;
         display: flex;
-        justify-content: center; 
+        justify-content: center;
         align-items: center;
         gap: 25px;
 
@@ -206,7 +207,7 @@ nav {
             a {
                 text-decoration: none;
                 color: #333;
-                font-size: 18px;
+                font-size: 16px;
                 font-weight: 500;
                 position: relative;
                 transition: color 0.3s ease;
@@ -643,5 +644,20 @@ hr {
 
     .w {
         color: #bbbbbb;
+    }
+}
+
+// Footer
+footer {
+    width: 760px;
+    margin: 40px auto 0;
+    padding-top: 20px;
+    border-top: 1px solid #d5d5d5;
+    text-align: left;
+    font-size: 13px;
+    color: #777;
+
+    p {
+        margin: 0;
     }
 }
