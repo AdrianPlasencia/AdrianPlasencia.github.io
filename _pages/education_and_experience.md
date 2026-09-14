@@ -109,7 +109,7 @@ permalink: /experience/
       <h5 class="card-title">Research Assistant for Professor Pavel Coronado Castellanos</h5>
       <p class="card-text">Political Economy and Applied Econometric Analysis.</p>
       <p class="card-text">Also assisted Professor Carlos Schmidt-Padilla (UC Berkeley).</p>
-      <p class="card-text muted">2026 – Present</p>
+      <p class="card-text muted">May 2026 – Present</p>
     </div>
   </div>
 
@@ -121,7 +121,7 @@ permalink: /experience/
       <p class="card-text"><a href="https://www.pucp.edu.pe/">Pontificia Universidad Católica del Perú</a></p>
       <h5 class="card-title">Research Assistant for Professor Andrés Beltrán Cortez</h5>
       <p class="card-text">Mathematical Theory for Economics.</p>
-      <p class="card-text muted">2026 – Present</p>
+      <p class="card-text muted">March 2026 – Present</p>
     </div>
   </div>
 
@@ -133,7 +133,7 @@ permalink: /experience/
       <p class="card-text"><a href="https://www.grade.org.pe/">Grupo de Análisis para el Desarrollo (GRADE)</a></p>
       <h5 class="card-title">Research Assistant for Professor Juan León Jara-Almonte</h5>
       <p class="card-text">Theoretical Econometrics and Impact Evaluation.</p>
-      <p class="card-text muted">2026 – Present</p>
+      <p class="card-text muted">August 2026 – Present</p>
     </div>
   </div>
 
