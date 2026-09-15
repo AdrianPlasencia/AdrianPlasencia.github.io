@@ -35,11 +35,11 @@ permalink: /research/manuscripts/
 ## Working papers
 
 <ul>
-  <li>Sharp Shock, Fast Rebound: Pandemic Mortality and District-Level GDP per Capita Growth Dynamics in Peru <span class="cat">Development Economics</span><br>
+  <li>A Deadly Shock, a Sharp Reversal: COVID-19 Mortality Exposure and Real Household Income per Capita Growth across Peruvian Districts <span class="cat">Development Economics</span><br>
   Luis Chirichigno and Adrián Plasencia.
     <details>
       <summary>Abstract | Draft coming soon</summary>
-      We study how the COVID-19 mortality shock of 2020 affected the growth rate of GDP per capita across 1,874 Peruvian districts between 2018 and 2024, using excess-mortality and COVID-19-specific mortality measures interacted with year indicators in a district and year fixed-effects panel, with standard errors following a Conley spatial correction. Districts more exposed to the 2020 shock grew significantly less that year, but rebounded by an almost equally large margin the following year, a pattern that persists, smaller in size, through 2022 and, under the COVID-19-specific measure, through 2024. We find no significant pre-treatment effect in 2018 once spatial correlation is accounted for, and the results point to a fast recovery, closer to patterns documented for past health crises than to the persistent output losses typical of financial crises.
+      We study how exposure to the COVID-19 mortality shock of 2020 was associated with real household income per capita growth across 1,874 Peruvian districts between 2018 and 2024, using excess-mortality and COVID-19-specific mortality measures interacted with year indicators in a district and year fixed-effects panel, with standard errors following a Conley spatial correction. Districts more exposed to mortality experienced significantly larger contractions in growth in 2020, followed by an almost symmetric positive differential in 2021 that leaves the cumulative effect statistically indistinguishable from zero; a positive differential persists thereafter, though its size and precision vary across mortality measures and spatial assumptions. The 2018 pre-treatment interaction is not distinguishable from zero once cross-district spatial dependence is accounted for, and the results are more consistent with the sharp contraction-rebound dynamics documented after modern health crises than with the persistent losses associated with financial and currency crises.
     </details>
   </li>
 </ul>
