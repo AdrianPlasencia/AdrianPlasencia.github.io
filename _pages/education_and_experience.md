@@ -76,7 +76,7 @@ permalink: /experience/
     </div>
     <div class="card-body">
       <p class="card-text"><a href="https://www.pucp.edu.pe/carrera/matematicas/">Pontificia Universidad Católica del Perú</a></p>
-      <h5 class="card-title">B.Sc. in Economics</h5>
+      <h5 class="card-title">B.A. in Economics</h5>
       <p class="card-text">2023 - 2028</p>
     </div>
   </div>
