@@ -9,13 +9,22 @@ permalink: /cv/
     max-width: 720px;
     margin: 0 auto;
   }
-  .cv-wrap h2 {
-    text-align: left;
+  .cv-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
     margin-bottom: 15px;
+  }
+  .cv-header h2 {
+    text-align: left;
+    margin: 0;
   }
   .cv-download {
     font-size: 15px;
     margin-left: 10px;
+  }
+  .cv-lang {
+    font-size: 15px;
   }
   .cv-embed {
     width: 100%;
@@ -26,8 +35,11 @@ permalink: /cv/
 </style>
 
 <div class="cv-wrap">
-  <h2>Curriculum Vitae
-    <a class="cv-download" href="{{ '/files/education-and-experience/cv_ap.pdf' | relative_url }}" target="_blank">Download PDF</a>
-  </h2>
-  <embed class="cv-embed" src="{{ '/files/education-and-experience/cv_ap.pdf' | relative_url }}#view=FitH" type="application/pdf">
+  <div class="cv-header">
+    <h2>Curriculum Vitae
+      <a class="cv-download" href="{{ '/files/education-and-experience/adrian_plasencia_cv_eng.pdf' | relative_url }}" target="_blank">Download PDF</a>
+    </h2>
+    <a class="cv-lang" href="{{ '/files/education-and-experience/adrian_plasencia_cv_esp.pdf' | relative_url }}" target="_blank">[spanish version]</a>
+  </div>
+  <embed class="cv-embed" src="{{ '/files/education-and-experience/adrian_plasencia_cv_eng.pdf' | relative_url }}#view=FitH" type="application/pdf">
 </div>
