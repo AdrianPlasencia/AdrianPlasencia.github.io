@@ -16,14 +16,14 @@ permalink: /research/lecture-notes/
 ## Lecture Notes
 
 * Fundamentals of Econometrics - Notes for 1ECO11 (2026), PUCP                                                                                                                                                                   
-  Professor [Juan León](https://grade.org.pe/en/investigadores/personal/jleon/), and written by Adrian Plasencia.  
+  Professor [Juan León](https://grade.org.pe/en/investigadores/personal/jleon/), and written by Adrián Plasencia.  
   <details>
     <summary>Summary | Coming soon</summary>
   </details>
 
 
 * Macroeconomics II - Notes for ECO293 (2026) PUCP                                                                                                                                                                   
-  Professor [Marco Vega](https://investigacion.bcrp.gob.pe/es/autores/marco-vega), and written by Adrian Plasencia.  
+  Professor [Marco Vega](https://investigacion.bcrp.gob.pe/es/autores/marco-vega), and written by Adrián Plasencia.  
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/macro2_v1.pdf" | relative_url }}" target="_blank">Lecture Notes (draft)</a></summary>
     Preliminary draft, please notify any mistake! 
@@ -31,7 +31,7 @@ permalink: /research/lecture-notes/
 
 
 * Microeconomics II - Notes for ECO263 (2026) PUCP                                                                                                                                                                   
-  Professor [Pavel Coronado](https://www.pucp.edu.pe/profesor/pavel-coronado-castellanos/docencia/), and written by Adrian Plasencia.  
+  Professor [Pavel Coronado](https://www.pucp.edu.pe/profesor/pavel-coronado-castellanos/docencia/), and written by Adrián Plasencia.  
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/microeconomia_2.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
     Preliminary draft, please notify any mistake! 
@@ -39,14 +39,14 @@ permalink: /research/lecture-notes/
 
 
 * Inferential Statistics - Notes for EST241 (2025), PUCP                                                                                                                                                                   
-  Professor [Luis Valdivieso](https://www.pucp.edu.pe/profesor/luis-valdivieso-serrano), and written by Adrian Plasencia.  
+  Professor [Luis Valdivieso](https://www.pucp.edu.pe/profesor/luis-valdivieso-serrano), and written by Adrián Plasencia.  
   <details>
     <summary>Summary | Coming soon</summary>
   </details>
 
 
 * Microeconomics I - Notes for ECO255 (2025), PUCP                                                                                                                                                                   
-  Professor [Giovanna Aguilar](https://www.pucp.edu.pe/profesor/giovanna-aguilar-andia), and written by Adrian Plasencia.  
+  Professor [Giovanna Aguilar](https://www.pucp.edu.pe/profesor/giovanna-aguilar-andia), and written by Adrián Plasencia.  
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/microeconomia1.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
     Preliminary draft, please notify any mistake! 
@@ -54,7 +54,7 @@ permalink: /research/lecture-notes/
 
 
 * Macroeconomics I - Notes for ECO290 (2025), PUCP                                                                                                                                                                   
-  Professor [Pedro Herrera](https://www.pucp.edu.pe/profesor/pedro-herrera-catalan), and written by Adrian Plasencia.  
+  Professor [Pedro Herrera](https://www.pucp.edu.pe/profesor/pedro-herrera-catalan), and written by Adrián Plasencia.  
   <details>
     <summary>Summary | Coming soon</summary>
   </details>
