@@ -106,9 +106,9 @@ permalink: /experience/
     </div>
     <div class="card-body">
       <p class="card-text"><a href="https://www.pucp.edu.pe/">Pontificia Universidad Católica del Perú</a></p>
-      <h5 class="card-title">Research Assistant for Professor Pavel Coronado Castellanos</h5>
+      <h5 class="card-title">Research Assistant for Professor <a href="https://www.pucp.edu.pe/profesor/pavel-coronado-castellanos/">Pavel Coronado Castellanos</a></h5>
       <p class="card-text">Political Economy and Applied Econometric Analysis.</p>
-      <p class="card-text">Also assisted Professor Carlos Schmidt-Padilla (UC Berkeley).</p>
+      <p class="card-text">Also assisted Professor <a href="https://cschmidtpadilla.github.io/">Carlos Schmidt-Padilla</a> (UC Berkeley).</p>
       <p class="card-text muted">May 2026 – Present</p>
     </div>
   </div>
@@ -119,7 +119,7 @@ permalink: /experience/
     </div>
     <div class="card-body">
       <p class="card-text"><a href="https://www.pucp.edu.pe/">Pontificia Universidad Católica del Perú</a></p>
-      <h5 class="card-title">Research Assistant for Professor Andrés Beltrán Cortez</h5>
+      <h5 class="card-title">Research Assistant for Professor <a href="https://www.pucp.edu.pe/profesor/andres-beltran-cortez">Andrés Beltrán Cortez</a></h5>
       <p class="card-text">Mathematical Theory for Economics.</p>
       <p class="card-text muted">March 2026 – Present</p>
     </div>
@@ -131,7 +131,7 @@ permalink: /experience/
     </div>
     <div class="card-body">
       <p class="card-text"><a href="https://www.grade.org.pe/">Grupo de Análisis para el Desarrollo (GRADE)</a></p>
-      <h5 class="card-title">Research Assistant for Professor Juan León Jara-Almonte</h5>
+      <h5 class="card-title">Research Assistant for Professor <a href="https://grade.org.pe/en/investigadores/personal/jleon/">Juan León Jara-Almonte</a></h5>
       <p class="card-text">Theoretical Econometrics and Impact Evaluation.</p>
       <p class="card-text muted">August 2026 – Present</p>
     </div>

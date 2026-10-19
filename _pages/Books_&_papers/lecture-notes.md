@@ -31,7 +31,7 @@ permalink: /research/lecture-notes/
 
 
 * Microeconomics II - Notes for ECO263 (2026) PUCP                                                                                                                                                                   
-  Professor [Pavel Coronado](https://www.pucp.edu.pe/profesor/pavel-coronado-castellanos/docencia/), and written by Adrián Plasencia.  
+  Professor [Pavel Coronado](https://www.pucp.edu.pe/profesor/pavel-coronado-castellanos/), and written by Adrián Plasencia.  
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/microeconomia_2.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
     Preliminary draft, please notify any mistake! 

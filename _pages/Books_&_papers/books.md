@@ -31,7 +31,7 @@ permalink: /research/books/
 ## Books
 
 * Fundamentals of Mathematical Theory for Economists - In progress <span class="cat">Mathematical Economics</span><br>
-  [Andrés Beltrán](https://cris.pucp.edu.pe/es/persons/andres-william-beltran-cortez/) and Adrián Plasencia.
+  [Andrés Beltrán](https://www.pucp.edu.pe/profesor/andres-beltran-cortez) and Adrián Plasencia.
   <details>
     <summary>Summary | Coming soon</summary>
     Work in progress, currently covering static optimization; chapters on dynamic optimization, dynamic programming, and game theory are still to come.
